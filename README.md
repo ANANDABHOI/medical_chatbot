@@ -1,8 +1,7 @@
-# medical_chatbot
+# 🩺 AI-Based Medical Symptom Checker
 
-:
 
-🩺 AI-Based Medical Symptom Checker
+
 
 An AI-powered medical assistant built with Streamlit and Cohere AI, designed to help users check their symptoms and receive possible condition insights.
 ⚠️ Disclaimer: This tool is for educational purposes only and should not replace professional medical advice.
