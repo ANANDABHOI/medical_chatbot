@@ -1,4 +1,4 @@
-# 🩺 AI-Based Medical Symptom Checker
+# 🩺 MedCheck AI :-AI-Based Medical Symptom Checker
 
 
 
